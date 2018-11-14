@@ -300,6 +300,7 @@
         <module>cs-date-time</module>
         <module>cs-dropbox</module>
         <module>cs-google</module>
+		<module>cs-google-drive</module>
         <module>cs-http-client</module>
         <module>cs-json</module>
         <module>cs-lists</module>
